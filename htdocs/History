@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+  <head>
+     <title>nuke.net</title>
+      <meta charset="UTF-8">
+      <meta name="author" content="GUIDOTTI, Agustine Mikael A.">
+      <meta name="keywords" content="HTML, CSS, JavaScript">
+      <link rel="stylesheet" href="../style.css">
+      <link rel="icon" href="../images/logowhite.png">
+  </head>
+  <body>
+    <header class="container">
+      <figure class="card">
+        <a href="/index.html"><img src="../images/logowhite.png" alt="logo" class="logo"></a>
+        <a href="/index.html"><img src="../images/logohover.png" alt="logohover" class="img-top"></a>
+      </figure>
+      <nav>
+        <ul>
+          <li><a id="current" href="History.html">History</a></li>
+          <li><a href="Statistics.html">Statistics</a></li>
+          <li><a href="Tension.html">Tension</a></li>
+          <li><a href="The Apocalypse.html">The Apocalypse</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+    <section>
+      <h1>History</h1>
+    </section>
+    <section class="flex-container">
+      <p>The atomic bomb has its origin, fittingly, from one of the most atrocious moments in mankind: World War II. Specifically from the Manhattan Project. The Manhattan Project was initiated, almost ironically, due to fears that the German axis powers had already been working on a bomb utilizing nuclear technology, and the results of the Manhattan Project would later lead to a direct end to the war. It is quite ironic, that the atomic bomb, started from fear, the same fear it instills in the heart of many to this day.</p>
+      <div class="manproj"><img src="../images/manproj.png" alt="manhattan project"></div>
+    </section>
+    <br></br>
+    <br></br>
+    <section class="flex-container">
+      <div class="trinity"><img src="../images/trinity resize.jpg" alt="trinity bomb"></div>
+      <p>The first nuclear bomb ever detonated was called ‘Trinity’, and was detonated on July 16, 1945 somewhere in a New Mexico desert. That marked the first time in history when the doomsday clock struck closer to midnight. From that first test, up until 1996 during the signing of the Comprehensive Nuclear-Test-Ban treaty, thousands of nuclear explosives were detonated in the sake of determining the effectiveness of each at being the antithesis of life. Despite the signing of the treaty, it has yet to be put into work, as eight countries have not yet ratified it. The most recent confirmed nuclear test we are aware of is by none other than North Korea, sometime in September 2017.</p>
+    </section>
+    <br></br>
+    <br></br>
+    <br></br>
+    <section class="flex-container">
+      <p>The second and third nuclear explosives to be detonated, Little Boy and Fat Man, were to be the only nuclear devices ever used in <strong>combat</strong> up until this point, eliminating 140,000 lives in an instant at Hiroshima and Nagasaki, respectively. Despite these being the only times nuclear explosives were deployed in combat, nuclear explosives have without a doubt played a larger role in warfare as a whole outside of these two events.</p>
+      <div class="combatnukes"><img src="../images/combatnukes.jpeg" alt="combat used nukes"></div>
+    </section>
+    <br></br>
+    <br></br>
+    <br></br>
+    <section class="flex-container">
+      <p>Unlike most wars, the Cold War is more vague in regards to its timeline. This is mostly since it was an ideological and technological war, and less of a combat-based one much like the wars immediately before it. One thing that was prominent during it, however, was the mass increase in nuclear testing and devices due to the two primary belligerents: the US and the Soviet Union. During the Cold War’s period from 1946-1991, thousands of nuclear testing was conducted, and these numbers quickly saw a plummet after the Soviet Union was dissolved in 1991. Here’s a video clearly displaying as such:</p>
+    </section>
+    <section>
+      <center>
+        <video controls autoplay muted>
+          <source src="../images/nuketimeline.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+      </center>
+    </section>
+    <br></br>
+    <br></br>
+    <br></br>
+    <section>
+      <p id="pc">With great power comes great risk. And it is safe to say that humanity has had its fair share of close calls when dealing with powers of this magnitude. Two examples that come to mind immediately, are the 1962 Cuban Missile Crisis and the 1983 Soviet nuclear false-alarm. The former, taking place during the course of a month in October 1962, was a slower set of events that later escalated. Its escalation occurred when the US moved missiles into Turkey and Italy, and Russia, not willing to go down in flames, matches the US by placing similar missiles in Cuba. Tensions were high and during that time the US would hit DEFCON 2 for the first time, the second and last time being in the 1991 Persian gulf war. 
+</p>
+      <center>
+      <div class="cmc"><img src="../images/cmc.jfif" alt="cuban missile crisis"></div>
+      </center>
+    </section>
+    <br></br>
+    <br></br>
+    <section class="flex-container">
+      <p>The 1983 Soviet nuclear false-alarm was more fast-paced, and in my opinion was a more dangerous time. Opposed to the Cuban Missile Crisis, this event took place in one day. During it, a system malfunction occurred in Russia’s early-warning radar for nuclear missiles, and it misreported that there was an ICBM (intercontinental ballistic missile) with four more missiles coming, from the US. On command at the Soviet Air Defence Force at the time, was one Stanislav Petrov. His training would indicate that he pick up the phone and call up the chain-of-command and let them respond to what he sees on the radar. Their response of course, would be to send even more ICBMs US-ward. However, for what ever reason, Stanislav had his suspicions that this had been a false alarm. He had no reason to believe as such, but he did, and therefore didn’t phone the higher positions, and stopped Russia from sending ICBMs to ‘retaliate’ to the US and its NATO allies, which would without a doubt have caused full scale nuclear war and led to the destruction of human society as we know it.</p>
+    </section>
+    <center>
+    <div><img src="../images/stanhimself.jpeg" alt="stanislav petrov"></div>
+    </center>
+    <br></br>
+    <br></br>
+    <br></br>
+    <section class="flex-container">
+      <p>Russia and the United States were the two nations with the most nuclear armaments, by a large margin. In order to reduce their arms and the risks and consequences of having them, the SORT treaty was signed. It expired in February 2011, and was swifty replaced by the START treaty, which similarly to the SORT treaty, called to halve the number of nuclear missile launchers between the two global powerhouses. It is set to expire in 2026 after an extension just last year.
+</p>
+      <div><img src="../images/sort.jpg" alt="SORT treaty signing"></div>
+    </section>
+    <br></br>
+    <br></br>
+    </main>
+  </body>
+</html>
