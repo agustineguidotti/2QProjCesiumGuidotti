@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+     <title>nuke.net</title>
+      <meta charset="UTF-8">
+      <meta name="author" content="GUIDOTTI, Agustine Mikael A.">
+      <meta name="keywords" content="HTML, CSS, JavaScript">
+      <link rel="stylesheet" href="../style.css">
+      <link rel="icon" href="../images/logowhite.png">
+  </head>
+  <body>
+    <header class="container">
+      <figure class="card">
+        <a href="/index.html"><img src="../images/logowhite.png" alt="logo" class="logo"></a>
+        <a href="/index.html"><img src="../images/logohover.png" alt="logohover" class="img-top"></a>
+      </figure>
+      <nav>
+        <ul>
+          <li><a href="History.html">History</a></li>
+          <li><a href="Statistics.html">Statistics</a></li>
+          <li><a href="Tension.html">Tension</a></li>
+          <li><a id="current" href="The Apocalypse.html">The Apocalypse</a></li>
+        </ul>
+      </nav>
+    </header>
+    <section>
+      <h1>The Apocalypse</h1>
+    </section>
+    <section>
+      <p id="p1">Mutually Assured Destruction is not something tangible. It’s a principle, a concept, and it’s a concept that is keeping you and me from being blown to kingdom come by trigger-happy world leaders. This concept, an idea of deterrence, states that if one superpower attack the other, the other would retaliate right back with even greater force. In a situation wherein each belligerent may entirely obliterate the other, there are no winners, and there is therefore no incentive to beginning a nuclear interaction. While it may seem comforting that MAD seemingly keeps us from facing the worst, the entire notion that both parties may completely destroy the other, and all it takes is one moment for this destruction to begin, undoubtedly breeds fear in the heart of many.
+</p>
+      <br></br>
+      <br></br>
+      <p id="p1">An inseparable facet of nuclear use and testing is radioactivity. Radiation from all things nuclear, from plants to explosives, lead to some ugly effects. If Nuclear War begins tomorrow, and the entire world becomes a desolate landscape, a shell of what it once was, some may survive. But they have only survived the initial blasts. They will have to deal with hundreds of thousands of years of radioactive space that will lead to many horrific results on the human body, from cancer to mutations, and even affects humans that don’t exist yet, through ionizing radiation causing DNA damage, resulting to people further down the generational tree also experiencing radiative effects.</p>
+    </section>
+    <br></br>
+    <br></br>
+  </body>
+</html>
