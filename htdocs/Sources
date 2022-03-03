@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+  <head>
+     <title>nuke.net</title>
+      <meta charset="UTF-8">
+      <meta name="author" content="GUIDOTTI, Agustine Mikael A.">
+      <meta name="keywords" content="HTML, CSS, JavaScript">
+      <link rel="stylesheet" href="../style.css">
+      <link rel="icon" href="images/logowhite.png">
+  </head>
+  <body>
+    <header class="container">
+      <figure class="card">
+        <a href="/index.html"><img src="../images/logowhite.png" alt="logo" class="logo"></a>
+        <a href="/index.html"><img src="../images/logohover.png" alt="logohover" class="img-top"></a>
+      </figure>
+      <nav>
+        <ul>
+          <li><a href="htdocs/History.html">History</a></li>
+          <li><a href="htdocs/Statistics.html">Statistics</a></li>
+          <li><a href="htdocs/Tension.html">Tension</a></li>
+          <li><a href="htdocs/The Apocalypse.html">The Apocalypse</a></li>
+        </ul>
+      </nav>
+      <section>
+        <p class="sources">https://en.wikipedia.org/wiki/Nuclear_weapons_testing</p>
+        <p class="sources">https://en.wikipedia.org/wiki/Nuclear_warfare#History</p>
+        <p class="sources">https://en.wikipedia.org/wiki/Cuban_Missile_Crisis</p>
+        <p class="sources">https://en.wikipedia.org/wiki/1983_Soviet_nuclear_false_alarm_incident</p>
+        <p class="sources">https://en.wikipedia.org/wiki/New_STARTs"></p>
+        <p class="sources">https://en.wikipedia.org/wiki/Strategic_Offensive_Reductions_Treaty</p>
+        <p class="sources">https://en.wikipedia.org/wiki/Nuclear_weapons_and_Israel</p>
+        <p class="sources">https://en.wikipedia.org/wiki/Nuclear_weapons_and_Israel</p>
+        <p class="sources">https://www.icrc.org/en/document/humanitarian-impacts-and-risks-use-nuclear-weapons#:~:text=Modern%20environmental%20modelling%20techniques%20demonstrates,%5B8%5D</p>
+        <p class="sources">https://www.rerf.or.jp/en/programs/roadmap_e/health_effects-en/geneefx-en/#:~:text=When%20ionizing%20radiation%20causes%20DNA,difficult%2C%20especially%20at%20low%20doses.</p>
+        <p class="sources">https://www.atomicheritage.org/sites/default/files/styles/large/public/Manhattan_Project_emblem_4.png?itok=6h1-3gYO</p>
+        <p class="sources">https://upload.wikimedia.org/wikipedia/commons/f/fc/Trinity_Detonation_T%26B.jpg</p>
+        <p class="sources">https://assets.sutori.com/user-uploads/image/84dd05e9-cb40-4581-9c89-c59ea3d9f6e3/db7ab20739b6a815d1241b7381116cb5.jpeg</p>
+        <p class="sources">https://i.insider.com/561e5f2cbd86ef195c8b6858?width=1000&format=jpeg&auto=webp</p>
+        <p class="sources">https://static.timesofisrael.com/www/uploads/2017/09/AP17262492602136.jpg</p>
+        <p class="sources">https://upload.wikimedia.org/wikipedia/commons/4/4b/Bush_and_Putin_signing_SORT.jpg</p>
+        <p class="sources">https://en.wikipedia.org/wiki/List_of_states_with_nuclear_weapons</p>
+        <p class="sources">https://bloximages.chicago2.vip.townnews.com/capjournal.com/content/tncms/assets/v3/editorial/1/71/171ccad0-34d3-11eb-b04a-732e8c8750ba/5fc7e91c4254e.hires.png</p>
+        <p class="sources">https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/255px-Flag_of_the_Soviet_Union.svg.png</p>
+        <p class="sources">https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/1200px-Flag_of_the_United_Kingdom.svg.png</p>
+        <p class="sources">https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1200px-Flag_of_France.svg.png</p>
+        <p class="sources">https://cdn.britannica.com/53/1753-004-03582EDA/Flag-Israel.jpg</p>
+        <p class="sources">https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/1920px-Flag_of_the_People%27s_Republic_of_China.svg.png</p>
+        <p class="sources">https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png</p>
+        <p class="sources">https://cdn.britannica.com/46/3346-004-D3BDE016/flag-symbolism-Pakistan-design-Islamic.jpg</p>
+        <p class="sources">https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/255px-Flag_of_North_Korea.svg.png</p>
+        <p class="sources">https://world101.cfr.org/global-era-issues/nuclear-proliferation/nuclear-world#:~:text=Nuclear%20conflict%20involving%20any%20of,unlikely%20but%20remains%20a%20possibility.</p>
+        <p class="sources">https://en.wikipedia.org/wiki/China–Russia_relations#:~:text=Nevertheless%2C%20China%20and%20Russia%20currently,alliance%20against%20the%20United%20States.</p>
+        <p class="sources">https://batchgeo.com/map/nuclear-weapons-world</p>
+      </section>
+    </header>
+    <br></br>
+    <br></br>
