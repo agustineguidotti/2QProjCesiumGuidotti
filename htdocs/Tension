@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+     <title>nuke.net</title>
+      <meta charset="UTF-8">
+      <meta name="author" content="GUIDOTTI, Agustine Mikael A.">
+      <meta name="keywords" content="HTML, CSS, JavaScript">
+      <link rel="stylesheet" href="../style.css">
+      <link rel="icon" href="../images/logowhite.png">
+  </head>
+  <body>
+    <header class="container">
+      <figure class="card">
+        <a href="/index.html"><img src="../images/logowhite.png" alt="logo" class="logo"></a>
+        <a href="/index.html"><img src="../images/logohover.png" alt="logohover" class="img-top"></a>
+      </figure>
+      <nav>
+        <ul>
+          <li><a href="History.html">History</a></li>
+          <li><a href="Statistics.html">Statistics</a></li>
+          <li><a id="current" href="Tension.html">Tension</a></li>
+          <li><a href="The Apocalypse.html">The Apocalypse</a></li>
+        </ul>
+      </nav>
+    </header>
+    <section>
+      <h1>Tension</h1>
+    </section>
+    <section>
+      <p id="p2">Matters of global tension between superpowers is more relevant now than ever, as unfortunate that may be. Russia has recently increased their DEFCON level, in light of their invasion of Ukraine and how NATO countries have responded. Of the nine countries in possession of nuclear weapons, conflict between the US and their allies (the UK, France) and Russia and their allies (China informally, and as an extension North Korea) would be quite problematic, to say the least.</p>
+    </section>
+    <br></br>
+    <br></br>
+    <div>
+      <p id="p2">Here's a map displaying where nuclear stockpiles are located in different parts of the world:</p>
+    </div>
+    <br></br>
+    <div>
+        <p><iframe src="https://batchgeo.com/map/nuclear-weapons-world"></p>
+    </div>
+  </body>
+</html>
