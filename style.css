@@ -2,7 +2,7 @@
 
 body {
   font-family: 'Roboto Mono', monospace;
-  background: rgba(0, 0, 0, .65) url("../images/bg.png");
+  background: rgba(0, 0, 0, .65) url("/2QProjCesiumGuidotti/images/bg.png");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
