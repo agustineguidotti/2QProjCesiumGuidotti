@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+  <head>
+     <title>nuke.net</title>
+      <meta charset="UTF-8">
+      <meta name="author" content="GUIDOTTI, Agustine Mikael A.">
+      <meta name="keywords" content="HTML, CSS, JavaScript">
+      <link rel="stylesheet" href="../style.css">
+      <link rel="icon" href="../images/logowhite.png">
+  </head>
+  <body>
+    <header class="container">
+      <figure class="card">
+        <a href="/index.html"><img src="../images/logowhite.png" alt="logo" class="logo"></a>
+        <a href="/index.html"><img src="../images/logohover.png" alt="logohover" class="img-top"></a>
+      </figure>
+      <nav>
+        <ul>
+          <li><a href="History.html">History</a></li>
+          <li><a id="current" href="Statistics.html">Statistics</a></li>
+          <li><a href="Tension.html">Tension</a></li>
+          <li><a href="The Apocalypse.html">The Apocalypse</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <main>
+    <section>
+      <h1>Statistics</h1>
+    </section>
+    <section
+      <p id="p2">Among the 195 UN recognized countries in the world, nine states have possession of nuclear warheads. In order of date of first test, earliest to most recent, these countries are: The United States, Russia (Soviet Union), the United Kingdom, France, Israel (first suspected test), China, India, Pakistan, and North Korea.</p>
+    </section>
+    <br></br>
+    <br></br>
+    <br></br>
+    <section>
+      <center>
+      <div><img src="../images/usaflagresize.png" alt="flag of the usa"></div>
+      </center>
+      <p id="p2">The United States of America was the first country to detonate an atomic bomb and did so on July 16, 1945 in the state of New Mexico. It has a current total of 5,550 nuclear warheads.</p>
+    </section>
+    <br></br>
+    <br></br>
+    <section>
+      <center>
+        <div><img src="../images/sovietunion.png" alt="flag of the soviet union"></div>
+      </center>
+      <p id="p2">The Soviet Union quickly followed suit in the pursuit of achieving similar military powers to be able to combat the US during the cold war, launching their first nuclear bomb only 4 years later on August 29, 1949, in what is now known as Kazakhstan. At present, they have access to a total of 6,257 warheads, the most of any country.</p>
+    </section>
+    <br></br>
+    <br></br>
+    <section>
+      <center>
+        <div><img src="../images/uk.png" alt="flag of the uk"></div>
+      </center>
+      <p id="p2">The United Kingdom, an ally to the US during the 2nd World War, would not be left behind in the pursuit of a greater power. On the 3rd of October in 1952, they would detonate their first atomic bomb called 'Hurricane'. At present they have a total of 225 warheads.</p>
+    </section>
+    <br></br>
+    <br></br>
+    <section>
+      <center>
+        <div><img src="../images/france.png" alt="flag of france"></div>
+      </center>
+      <p id="p2">France had their first test held at Algeria (while it was their colony) 15 years after the first nuclear test, in February 13, 1960. They currently have a total of 290 warheads.</p>
+    </section>
+    <br></br>
+    <br></br>
+    <section>
+      <center>
+        <div><img src="../images/israel.jpg" alt="flag of israel"></div>
+      </center>
+      <p id="p2">Israel had their first suspected nuclear test in 1960, in an unknown location. The most recent guess for their first test is 1979, at an also unkown location. These approximations are based on guesses and reports. Israel currently has 90 total warheads.</p>
+    </section>
+    <br></br>
+    <br></br>
+    <section>
+      <center>
+        <div><img src="../images/china.png" alt="flag of china"></div>
+      </center>
+      <p id="p2">In the Xianjiang Province on October 13, 1964, China conducted their own first nuclear arms test. At present, they have a total of 350 warheads, the most beside any country that is not the two nuclear superpowers (USA and Russia).</p
+    </section>
+    <br></br>
+    <br></br>
+    <section>
+      <center>
+        <div><img src="../images/india.png" alt="flag of india"></div>
+      </center>
+      <p id="p2">India would detonate the 'Smiling Buddha' in Northern India on May 18, 1974. They have 160 total warheads.</p>
+    </section>
+    <br></br>
+    <br></br>
+    <section>
+      <center>
+        <div><img src="../images/pakistan.jpg" alt="flag of pakistan"></div>
+      </center>
+      <p id="p2">Pakistan would have their first test much later on down the line, in 1998. At present, they have a similar amount of total warheads to their neighboring country, India, at 165 total warheads.</p>
+    </section>
+    <br></br>
+    <br></br>
+    <section>
+      <center>
+        <div><img src="../images/nkorea.png" alt="flag of north korea"></div>
+      </center>
+      <p id="p2">Last, we have North Korea. This country is the most recent to have developed nuclear explosive technology, having their first test just in 2006. Despite what their leader seems to suggest, they actually have the least amount of total warheads deployed of any country (that we know of) at only 45.</p>
+    </section>
+    <br></br>
+    <br></br>
+  </main>
+  </body>
+</html>
